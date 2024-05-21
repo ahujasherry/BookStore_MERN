@@ -30,11 +30,4 @@ Frontend: React JS, Bootstrap, React Router, Axios.
 Backend: Express.js, Mongoose, JWT, Stripe, and more for robust and secure application performance.
 Testing:
 
-Comprehensive testing strategies to ensure each component's functionality and overall behavior within the application.
-Future Enhancements:
-1. Recommendation System: Personalized book suggestions based on user preferences and history.
-2. Social Media Integration: Options for users to connect and share on platforms like Facebook.
-3. Architecture Shift: Transitioning to a microservices architecture for improved scalability and fault tolerance.
-4. Advanced Search: Enhanced filter and sort options for a more tailored browsing experience.
-5. Scalability: Implementing load balancing to handle high traffic efficiently.
-6. Payment Options: Expanding to include more payment gateways like PayPal and Amazon Pay.
+Full Technical and functional documentation can be found at root directory file named BookStore_MERN_TechSpecs.pdf
