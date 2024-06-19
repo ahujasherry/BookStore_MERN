@@ -1,10 +1,10 @@
 # 📚 Online Bookstore Web Application
-Welcome to the Online Bookstore Web Application, an e-commerce platform designed to provide a seamless and interactive shopping experience for book lovers! Explore, discover, and purchase your favorite books effortlessly.
+Welcome to the Online Bookstore Web Application, an e-commerce platform designed to provide a seamless and interactive shopping experience for book lovers! Explore, discover, and purchase your favorite books effortlessly. 
 
 # 🌟 Key Features
 ### 🔍 Book Discovery
 - Explore Genres: Dive into a variety of book genres.
-- Search with Ease: Find books by name quickly.
+- Search with Ease: Find books by name and genre quickly 
 
 ### 🔑 User Registration and Login
 - Personalized Profiles: Register and log in to access your profile.
